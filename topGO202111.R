@@ -10,8 +10,8 @@ if (!requireNamespace("Rgraphviz", quietly = TRUE))
     BiocManager::install("Rgraphviz")
 
 if (!requireNamespace("getopt", quietly = TRUE)){
-	install.packages("getopt");
-	q()
+    install.packages("getopt");
+    q()
 }
 
 # library packages
