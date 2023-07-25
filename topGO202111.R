@@ -1,4 +1,4 @@
-#!/usr/bin/Rscript
+#!/usr/bin/env Rscript
 
 # Author: Xiaodong Li
 # Date:   Nov. 29th, 2021
